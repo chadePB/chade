@@ -1,7 +1,7 @@
 <section id="tropicalia" class="my-5 pt-6 secao-tropicalia">
         <div class="container d-flex align-items-center">
                 <div class="col-5">
-                        <h2>O que foi a Tropicália?</h2>
+                        <h2>Morangos?</h2>
                         <p class="p-2">O morango um fruto vermelho ou vermejo, uma fruta acida onde tras misturas de felicidades e desejos de fazer receitas e receitas com morangos
                                 como bolo de morangos ou morangos com doce de leite e ate morango com chocolate a melhor mistura, um desejo irresistível.
                         </p>
